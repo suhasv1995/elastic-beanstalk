@@ -19,6 +19,7 @@
   "homepage": "https://github.com/suhasv1995/elastic-beanstalk#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-validator": "^6.6.1",
     "react": "16.13.1"
   }
 }
